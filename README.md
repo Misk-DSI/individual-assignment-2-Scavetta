@@ -24,6 +24,7 @@ To complete the assignment, your repo should contain the following files:
 ./
 │   README.md
 │   wine_report.html    
+│   individual-asignment-2-<name>.Rproj
 │   
 └───archive/
 │   │   assignment.md
